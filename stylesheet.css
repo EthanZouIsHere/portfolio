@@ -22,6 +22,6 @@ body { background-image: url ("https://github.com/EthanZouIsHere/portfolio/blob/
 
 h1 {
     
-  float left;
+  float: left;
   
   }
