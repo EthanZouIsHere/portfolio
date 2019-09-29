@@ -2,7 +2,7 @@
 
 h1 {
   font-family: 'Roboto', sans-serif;
-  color: 00E8FF;}
+  color: #00E8FF;}
 }
 
 h1 {
@@ -24,4 +24,8 @@ h1 {
     
   float: left;
   
+  }
+ 
+.hobbyheading {
+  color: #1700FF;
   }
