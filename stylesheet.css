@@ -29,3 +29,15 @@ h2 {
 .hobbyheading {
   color: #1700FF;
   }
+  
+  .navbar {
+    overflow:hidden;
+    background-color:#00FFE0;
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: #42FF00;
+    text-align: center;
+    
