@@ -28,3 +28,15 @@ p {
     font-size: 17px;
     background-color: #ECFF00;
   }
+
+.navbar a:hover {
+    background-color: #FF0000;
+    color: #2300FF;
+  }
+  
+  .navbar a.active {
+    background-color: #E000FF;
+    color: Black;
+  }
+  
+    
