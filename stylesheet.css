@@ -6,14 +6,14 @@ h1 {
 }
 
 h1 {
-  color: E000FF;
+  color: #E000FF;
   border: 6px solid blue;
 }
   
 p {
   font-style: italic;
   font-size: 15;
-  color: E000FF;
+  color: #E000FF;
 }
 
 body { background-color: LimeGreen;}
