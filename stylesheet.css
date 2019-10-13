@@ -49,4 +49,8 @@ h2 {
     background-color: #FF0000;
     color: #2300FF;
   }
+  
+  .navbar a.active {
+    background-color: #E000FF;
+    color: #00FF7C;
     
